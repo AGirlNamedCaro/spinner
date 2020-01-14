@@ -1,5 +1,5 @@
+//Worked with Caleb
 
-  
   setTimeout(() => {
     process.stdout.write('\r|   ');
   }, 100);
